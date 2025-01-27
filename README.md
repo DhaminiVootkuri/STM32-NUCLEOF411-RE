@@ -9,7 +9,7 @@ Embedded Systems
 <a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/1f9d0cd0080e6c0706cbbc33bab68bfa0ab45291/LAB3.pdf">LAB-3</a> **:This lab focused on configuring GPIO interrupts and ADC modes on the STM32 microcontroller. Key experiments included toggling an LED via external interrupt, implementing ADC in scan and continuous modes, and utilizing DMA for efficient data handling. The lab highlighted the advantages of interrupt-driven programming and DMA in real-time applications.**
 
 
-
+<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/c875f4ec8b54ebc684530085d013452a1afdc5cb/LAB4.pdf">LAB-4</a> **:The lab explored UART communication by transmitting the ASCII value of 'a' and visualizing its 8-bit binary waveform on an oscilloscope. It demonstrated UART signal timing, data format, and the use of an oscilloscope for analysis. An I2C experiment was also performed to study another communication protocol.**
 
 
 
