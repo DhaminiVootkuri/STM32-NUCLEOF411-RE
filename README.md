@@ -31,6 +31,7 @@
 
 <a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/6b9dda5ab8502ca57c219f5adde01282484bf83e/FPGA%20LAB.pdf">FPGA-LAB</a> **:The lab assignment focuses on the design and implementation of a 16-bit Carry Look-Ahead Adder (CLA) using VHDL on the Basys3 FPGA. The project involves creating design code, test benches, and simulating various test cases to verify functionality. A comparison of the Ripple-Carry Adder (RCA) and CLA highlights the significant reduction in delay and area for the CLA implementation.**  
 
+ FPGA LAB PRESENTATION : https://drive.google.com/file/d/1RDyDGR4T66bj5breZdT2_fs-lnqmbVVG/view
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROJECT-1
 
@@ -42,6 +43,8 @@
 
 <a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/71cb2a88387abbec469ef544badb0e86db14550d/Project-1.pdf">PROJECT-1</a> **:Gesture recognition interprets hand signals, converting them into meaningful messages. Voice conversion enables audible feedback for users with speech impairments. Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
+
+PROJECT-1 PRESENTATION : https://drive.google.com/file/d/1lqgu6l0Ze06dpwbDRCX__ad4uvVuAY3N/view 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROJECT-2
 
