@@ -25,15 +25,33 @@
 <a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/197940edd2a1555081857ed6a9d0f52b914f5538/LAB5%20.pdf">LAB-5</a> **:The STM32 timers are configured to generate interrupts based on a defined Prescaler and Counter Period. The function HAL_TIM_Base_Start_IT(&htim1) starts Timer 1 in interrupt mode, triggering interrupts at set intervals. This allows precise, periodic execution of tasks without constant CPU intervention.**  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
-![FPGA](https://github.com/user-attachments/assets/20c4a742-f6fd-4d80-b4ef-2dc6369a2c85)
+# Basys 3 Artix-7 Fpga Development Board  
+
+![FPGA](https://github.com/user-attachments/assets/20c4a742-f6fd-4d80-b4ef-2dc6369a2c85)   
+
+The lab assignment focuses on the design and implementation of a 16-bit Carry Look-Ahead Adder (CLA) using VHDL on the Basys3 FPGA. The project involves creating design code, test benches, and simulating various test cases to verify functionality. A comparison of the Ripple-Carry Adder (RCA) and CLA highlights the significant reduction in delay and area for the CLA implementation.  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROJECT-1
+
+## Gesture and Sign Detection Communication System
 
 ![WhatsApp Image 2025-01-26 at 8 53 21 PM](https://github.com/user-attachments/assets/e2df619f-9437-4a9a-b2ab-d81ed0c369e7)  
 
-![WhatsApp Image 2025-01-26 at 8 23 06 PM](https://github.com/user-attachments/assets/180f51fe-9c53-42a4-995c-f996f0e36b89)   
+![WhatsApp Image 2025-01-26 at 8 23 06 PM](https://github.com/user-attachments/assets/180f51fe-9c53-42a4-995c-f996f0e36b89)     
+
+Gesture recognition interprets hand signals, converting them into meaningful messages. Voice conversion enables audible feedback for users with speech impairments. Integrated hardware provides real-time interaction, enhancing communication and safety.  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PROJECT-2
+
+## Smart Energy monitoring system using ESP32 and Blynk
 
 ![WhatsApp Image 2025-01-26 at 8 52 09 PM](https://github.com/user-attachments/assets/5a776327-bda1-479c-a36a-2f149a29ca3b)   
 
-![WhatsApp Image 2025-01-26 at 8 52 30 PM](https://github.com/user-attachments/assets/035fe67f-be0e-4921-ad0f-5631df4734f9)
+![WhatsApp Image 2025-01-26 at 8 52 30 PM](https://github.com/user-attachments/assets/035fe67f-be0e-4921-ad0f-5631df4734f9)   
+
+The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.
 
 
 
