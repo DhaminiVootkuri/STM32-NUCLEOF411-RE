@@ -40,7 +40,7 @@
 
 ![WhatsApp Image 2025-01-26 at 8 23 06 PM](https://github.com/user-attachments/assets/180f51fe-9c53-42a4-995c-f996f0e36b89)     
 
-<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/71cb2a88387abbec469ef544badb0e86db14550d/Project-1.pdf>PROJECT-1</a> **:"Gesture recognition interprets hand signals, converting them into meaningful messages. Voice conversion enables audible feedback for users with speech impairments. Integrated hardware provides real-time interaction, enhancing communication and safety.**  
+<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/71cb2a88387abbec469ef544badb0e86db14550d/Project-1.pdf">PROJECT-1</a> **:"Gesture recognition interprets hand signals, converting them into meaningful messages. Voice conversion enables audible feedback for users with speech impairments. Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROJECT-2
@@ -51,7 +51,7 @@
 
 ![WhatsApp Image 2025-01-26 at 8 52 30 PM](https://github.com/user-attachments/assets/035fe67f-be0e-4921-ad0f-5631df4734f9)   
 
-The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.
+<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/2630454fe4f97a69cad4d3150a5f2f0d3bf0c91c/Project-2.pdf">PROJECT-2</a> **:The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.**
 
 
 
