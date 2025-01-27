@@ -29,7 +29,7 @@
 
 ![FPGA](https://github.com/user-attachments/assets/20c4a742-f6fd-4d80-b4ef-2dc6369a2c85)   
 
-The lab assignment focuses on the design and implementation of a 16-bit Carry Look-Ahead Adder (CLA) using VHDL on the Basys3 FPGA. The project involves creating design code, test benches, and simulating various test cases to verify functionality. A comparison of the Ripple-Carry Adder (RCA) and CLA highlights the significant reduction in delay and area for the CLA implementation.  
+<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/6b9dda5ab8502ca57c219f5adde01282484bf83e/FPGA%20LAB.pdf">FPGA-LAB</a> **:The lab assignment focuses on the design and implementation of a 16-bit Carry Look-Ahead Adder (CLA) using VHDL on the Basys3 FPGA. The project involves creating design code, test benches, and simulating various test cases to verify functionality. A comparison of the Ripple-Carry Adder (RCA) and CLA highlights the significant reduction in delay and area for the CLA implementation.**  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROJECT-1
