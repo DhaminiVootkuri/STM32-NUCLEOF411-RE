@@ -40,7 +40,7 @@
 
 ![WhatsApp Image 2025-01-26 at 8 23 06 PM](https://github.com/user-attachments/assets/180f51fe-9c53-42a4-995c-f996f0e36b89)     
 
-Gesture recognition interprets hand signals, converting them into meaningful messages. Voice conversion enables audible feedback for users with speech impairments. Integrated hardware provides real-time interaction, enhancing communication and safety.  
+<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/71cb2a88387abbec469ef544badb0e86db14550d/Project-1.pdf>PROJECT-1</a> **:"Gesture recognition interprets hand signals, converting them into meaningful messages. Voice conversion enables audible feedback for users with speech impairments. Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # PROJECT-2
