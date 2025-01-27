@@ -11,6 +11,6 @@ Embedded Systems
 
 <a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/c875f4ec8b54ebc684530085d013452a1afdc5cb/LAB4.pdf">LAB-4</a> **:The lab explored UART communication by transmitting the ASCII value of 'a' and visualizing its 8-bit binary waveform on an oscilloscope. It demonstrated UART signal timing, data format, and the use of an oscilloscope for analysis. An I2C experiment was also performed to study another communication protocol.**
 
-
+<a href="https://github.com/DhaminiVootkuri/STM32-NUCLEOF411-RE/blob/197940edd2a1555081857ed6a9d0f52b914f5538/LAB5%20.pdf">LAB-5</a> **:The STM32 timers are configured to generate interrupts based on a defined Prescaler and Counter Period. The function HAL_TIM_Base_Start_IT(&htim1) starts Timer 1 in interrupt mode, triggering interrupts at set intervals. This allows precise, periodic execution of tasks without constant CPU intervention.**
 
 
